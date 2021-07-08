@@ -1,0 +1,42 @@
+{
+    "background": {
+        "_01d": "http://a.animedlweb.ga/weather/bg/01d_bg.png",
+        "_01n": "http://a.animedlweb.ga/weather/bg/01n_bg.png",
+		"_02d": "http://a.animedlweb.ga/weather/bg/02d_bg.png",
+		"_02n": "http://a.animedlweb.ga/weather/bg/02n_bg.png",
+		"_03d": "http://a.animedlweb.ga/weather/bg/03d_bg.png",
+		"_03n": "http://a.animedlweb.ga/weather/bg/03n_bg.png",
+		"_04d": "http://a.animedlweb.ga/weather/bg/04d_bg.png",
+		"_04n": "http://a.animedlweb.ga/weather/bg/04n_bg.png",
+		"_09d": "http://a.animedlweb.ga/weather/bg/09d_bg.png",
+		"_09n": "http://a.animedlweb.ga/weather/bg/09n_bg.png",
+		"_10d": "http://a.animedlweb.ga/weather/bg/10d_bg.png",
+		"_10n": "http://a.animedlweb.ga/weather/bg/10n_bg.png",
+		"_11d": "http://a.animedlweb.ga/weather/bg/11d_bg.png",
+		"_11n": "http://a.animedlweb.ga/weather/bg/11n_bg.png",
+		"_13d": "http://a.animedlweb.ga/weather/bg/13d_bg.png",
+		"_13n": "http://a.animedlweb.ga/weather/bg/13n_bg.png",
+		"_50d": "http://a.animedlweb.ga/weather/bg/50d_bg.png",
+		"_50n": "http://a.animedlweb.ga/weather/bg/50n_bg.png"
+    },
+    "icon": {
+        "_01d": "http://a.animedlweb.ga/weather/ico/01d_ico.png",
+        "_01n": "http://a.animedlweb.ga/weather/ico/01n_ico.png",
+		"_02d": "http://a.animedlweb.ga/weather/ico/02d_ico.png",
+		"_02n": "http://a.animedlweb.ga/weather/ico/02n_ico.png",
+		"_03d": "http://a.animedlweb.ga/weather/ico/03d_ico.png",
+		"_03n": "http://a.animedlweb.ga/weather/ico/03n_ico.png",
+		"_04d": "http://a.animedlweb.ga/weather/ico/04d_ico.png",
+		"_04n": "http://a.animedlweb.ga/weather/ico/04n_ico.png",
+		"_09d": "http://a.animedlweb.ga/weather/ico/09d_ico.png",
+		"_09n": "http://a.animedlweb.ga/weather/ico/09n_ico.png",
+		"_10d": "http://a.animedlweb.ga/weather/ico/10d_ico.png",
+		"_10n": "http://a.animedlweb.ga/weather/ico/10n_ico.png",
+		"_11d": "http://a.animedlweb.ga/weather/ico/11d_ico.png",
+		"_11n": "http://a.animedlweb.ga/weather/ico/11n_ico.png",
+		"_13d": "http://a.animedlweb.ga/weather/ico/13d_ico.png",
+		"_13n": "http://a.animedlweb.ga/weather/ico/13n_ico.png",
+		"_50d": "http://a.animedlweb.ga/weather/ico/50d_ico.png",
+		"_50n": "http://a.animedlweb.ga/weather/ico/50n_ico.png"
+    }
+}
